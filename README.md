@@ -1,4 +1,3 @@
-<p align="center">**Solutions for CodingBat Exercises**
-
-https://codingbat.com/java/
+<p align="center"><b><h1>Solutions for CodingBat Exercises</b></h1>
+<br>https://codingbat.com/java/
 </p>
