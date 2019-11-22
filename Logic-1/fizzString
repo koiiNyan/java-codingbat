@@ -1,0 +1,14 @@
+/*
+Given a string str, if the string starts with "f" return "Fizz".
+If the string ends with "b" return "Buzz". If both the "f" and "b" conditions are true,
+return "FizzBuzz". In all other cases, return the string unchanged.
+*/
+public String fizzString(String str) {
+  boolean f = (str.charAt(0) == 'f');
+  boolean l = (str.charAt(str.length()-1) == 'b');
+  
+  if (f && l)  return "FizzBuzz";
+  else if (f) return "Fizz";
+  else if (l) return "Buzz";
+  return str;
+}
