@@ -1,2 +1,2 @@
-<b><h1><p align="center">Solutions for CodingBat Exercises</b></h1>
+<b><h1><p align="center">Solutions for CodingBat Problems</b></h1>
 <p align="center">https://codingbat.com/java/</p>
